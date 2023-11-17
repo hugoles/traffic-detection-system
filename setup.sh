@@ -10,8 +10,8 @@ else
     echo "'data' directory already exists."
 fi
 
-# Download the traffic_analysis.mov file from Google Drive
-gdown -O "$DIR/data/traffic_analysis.mov" "https://drive.google.com/uc?id=1qadBd7lgpediafCpL_yedGjQPk-FLK-W"
+# Download the output.mov file from Google Drive
+gdown -O "$DIR/data/traffic_analysis.mov" "https://drive.google.com/uc?id=1oW1Ryo0qAAS2NHmWCjVQfpcdlHt-gXnj"
 
-# Download the traffic_analysis.pt file from Google Drive
-gdown -O "$DIR/data/traffic_analysis.pt" "https://drive.google.com/uc?id=1y-IfToCjRXa3ZdC1JpnKRopC7mcQW-5z"
+# Download the model4.pt file from Google Drive
+gdown -O "$DIR/data/traffic_analysis.pt" "https://drive.google.com/uc?id=1EZ7G1nTG6ezWZZGteuvmnOlCuLz7i0R2"
