@@ -11,8 +11,9 @@ https://github.com/hugoles/transit-detection/assets/67278688/57b8f158-3ad2-4628-
 This modified script can count, track, annotate, classify, and distinguish different classes of vehicles.
 </div>
 
-#💻 install
 
+
+## 💻 install
 
 
 - clone repository and navigate to example directory
