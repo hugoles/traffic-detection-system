@@ -1,4 +1,4 @@
-# transit-detection
+# traffic-detection
 disc: This is a application forked by roboflow/supervision (roboflow/supervision/traffic_analysis/examples)
 <div>
   <p>
